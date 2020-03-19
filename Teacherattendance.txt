@@ -1,0 +1,4 @@
+TCE01		CE	Date is:1/4/2019	P
+TCE02		CE	Date is:1/4/2019	A
+TCE01		CE	Date is:1/4/2019	NT
+TCE02		CE	Date is:1/4/2019	NT
